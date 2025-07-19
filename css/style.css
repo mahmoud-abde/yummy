@@ -7,7 +7,7 @@
 
 @keyframes rise {
   from {
-    transform: translateY(-40px);
+    transform: translateY(-22px);
   }
   to {
     transform: translateY(40px);
